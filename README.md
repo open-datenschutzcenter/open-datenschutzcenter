@@ -1,3 +1,24 @@
+# 🚫 Projekt eingestellt – Suche nach neuen Maintainern
+
+Dieses Repository wird von **H2 invent** nicht mehr aktiv weiterentwickelt.
+
+Wir haben dieses Projekt als echtes Open-Source-Vorhaben gestartet — in der 
+Hoffnung, gemeinsam mit der Community etwas Nützliches zu schaffen. Was wir 
+festgestellt haben: Open Source lebt vom Geben **und** Nehmen. Leider hat sich 
+trotz vieler Nutzer keine Unterstützung durch Sponsoren oder aktive Beitragende 
+entwickelt, die eine Weiterführung ermöglicht hätte.
+
+Wir hegen keinen Groll — aber die Realität zwingt uns, die Arbeit hier 
+einzustellen.
+
+## 💡 Du möchtest das Projekt retten?
+
+Falls du oder deine Organisation Interesse haben, dieses Projekt zu übernehmen 
+und weiterzuführen, melde dich gerne. Wir übergeben den Code, die Dokumentation 
+und unser Know-how gerne an eine Community, die Lust hat, weiterzumachen.
+
+---
+
 # Open-Datenschutzcenter
 __Open Source Datenschutzmanagement System__
 
