@@ -1,21 +1,13 @@
-# 🚫 Projekt eingestellt – Suche nach neuen Maintainern
+# ---
 
-Dieses Repository wird von **H2 invent** nicht mehr aktiv weiterentwickelt.
+### 📢 Projekt-Update: Kontinuität & Neue Pflege / Project Update
 
-Wir haben dieses Projekt als echtes Open-Source-Vorhaben gestartet — in der 
-Hoffnung, gemeinsam mit der Community etwas Nützliches zu schaffen. Was wir 
-festgestellt haben: Open Source lebt vom Geben **und** Nehmen. Leider hat sich 
-trotz vieler Nutzer keine Unterstützung durch Sponsoren oder aktive Beitragende 
-entwickelt, die eine Weiterführung ermöglicht hätte.
+**DE:** Das Open-Datenschutzcenter wird aktiv weitergeführt! Die Verantwortung für die Wartung und Weiterentwicklung des Projekts wurde offiziell übergeben. Um einen nahtlosen Übergang zu gewährleisten, wird die initiale Übergangsphase noch partnerschaftlich von den ursprünglichen Entwicklern begleitet. So bleibt das Projekt auch in Zukunft als Open-Source-Lösung für die Community, Vereine und Unternehmen zuverlässig einsatzbereit.
 
-Wir hegen keinen Groll — aber die Realität zwingt uns, die Arbeit hier 
-einzustellen.
+**EN:** The Open-Datenschutzcenter is actively being continued! Project maintenance and development have been officially handed over. To ensure a seamless transition, the original developers are providing support during the initial handover phase. The project remains securely available as an open-source solution for the community and Companies.
 
-## 💡 Du möchtest das Projekt retten?
-
-Falls du oder deine Organisation Interesse haben, dieses Projekt zu übernehmen 
-und weiterzuführen, melde dich gerne. Wir übergeben den Code, die Dokumentation 
-und unser Know-how gerne an eine Community, die Lust hat, weiterzumachen.
+*   **Neuer Maintainer / New Maintainer:** [@janekberlin-create](https://github.com/janekberlin-create)
+*   **Support / Bug Reports:** Bitte nutzt ab sofort die GitHub Issues in diesem Repository.
 
 ---
 
