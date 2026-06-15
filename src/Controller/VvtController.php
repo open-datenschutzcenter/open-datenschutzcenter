@@ -152,7 +152,7 @@ class VvtController extends BaseController
         $vvt = $vvtRepository->find($request->get('id'));
         $team = $currentTeamService->getCurrentTeam($this->getUser());
 
-        if ($securityService->teamDataCheck($vvt, $team) === false) {
+        if ($securityService->checkTeamAccessToProcess($vvt, $team) === false) {
             return $this->redirectToRoute('vvt');
         }
 

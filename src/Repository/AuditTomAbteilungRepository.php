@@ -17,7 +17,6 @@ class AuditTomAbteilungRepository extends ServiceEntityRepository
 {
     public function __construct(
         ManagerRegistry                 $registry,
-        private readonly TeamRepository $teamRepository,
     )
     {
         parent::__construct($registry, AuditTomAbteilung::class);
@@ -25,12 +24,10 @@ class AuditTomAbteilungRepository extends ServiceEntityRepository
 
     public function findActiveByTeam(Team $team)
     {
-        $teamPath = $this->teamRepository->getPath($team);
-
         return $this->createQueryBuilder('a')
-            ->where('a.team IN (:teamPath)')
+            ->where('a.team = :team')
             ->andWhere('a.activ = 1')
-            ->setParameter('teamPath', $teamPath)
+            ->setParameter('team', $team)
             ->getQuery()
             ->getResult()
             ;
